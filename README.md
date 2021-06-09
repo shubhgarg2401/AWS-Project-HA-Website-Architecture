@@ -19,7 +19,7 @@ The project highlights the working of various aws services to form a highly avai
 
 ## THE APPROACH
 
-The idea was to host a static website using S3 and EC2 . Increase it's availability using cloudfront and Route 53.
+The idea was to create a Higly Available Architecture host a static website using S3 and EC2 . Increase it's availability using cloudfront and Route 53.
 
 ------------
 
