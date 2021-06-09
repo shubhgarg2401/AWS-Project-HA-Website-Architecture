@@ -1,4 +1,4 @@
-# AWS HIGH AVAILABILITY WEBSITE (PROJECT)
+# AWS HIGH AVAILABILITY ARCHITECTURE (PROJECT)
 
 The project highlights the working of various aws services to form a highly available architecture for website hosting.
 
